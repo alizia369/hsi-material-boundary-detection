@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Material-Based Boundary Detection in Hyperspectral Images"
+type: software
+authors:
+  - family-names: "Zia"
+    given-names: "Ali"
+repository-code: "https://github.com/alizia369/hsi-material-boundary-detection"
+license: BSD-3-Clause
+preferred-citation:
+  type: conference-paper
+  title: "Material Based Boundary Detection in Hyperspectral Images"
+  authors:
+    - family-names: "Al-Khafaji"
+      given-names: "Suhad Lateef"
+    - family-names: "Zia"
+      given-names: "Ali"
+    - family-names: "Zhou"
+      given-names: "Jun"
+    - family-names: "Liew"
+      given-names: "Alan Wee-Chung"
+  year: 2017
+  collection-title: "International Conference on Digital Image Computing: Techniques and Applications (DICTA)"
+  start: "1"
+  end: "7"
